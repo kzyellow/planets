@@ -7,6 +7,10 @@ blue
 
 Venus is super cold, right? 
 because it has a thick atmosphere?
+<<<<<<< HEAD
 
 
 Go venus go!
+=======
+I think it rains acid, like, all the time
+>>>>>>> aa47d3008c1104be6b2122d5abd917900aacf701
